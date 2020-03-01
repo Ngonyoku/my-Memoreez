@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1096008109427",
+    "firebase_url": "https://memoreez-8b255.firebaseio.com",
+    "project_id": "memoreez-8b255",
+    "storage_bucket": "memoreez-8b255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096008109427:android:db3c337e71fb19bdf04906",
+        "android_client_info": {
+          "package_name": "com.example.memoreez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096008109427-794kf443djmtdlpju34r6t5t5ctc0qbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memoreez",
+            "certificate_hash": "a63743f0b70c572e84b37e93a03e48690f17dbcd"
+          }
+        },
+        {
+          "client_id": "1096008109427-uq8f0fjno48ma1clpanv50mros6b5tq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qK_0Ae8yFel4UoO0mZHgGNO6JbFL3hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096008109427-uq8f0fjno48ma1clpanv50mros6b5tq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096008109427:android:7f088e304c63c0bbf04906",
+        "android_client_info": {
+          "package_name": "com.example.mymemoreez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096008109427-44qpg5g8d7gmgltkl34nj68s0k6n9qhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymemoreez",
+            "certificate_hash": "a63743f0b70c572e84b37e93a03e48690f17dbcd"
+          }
+        },
+        {
+          "client_id": "1096008109427-uq8f0fjno48ma1clpanv50mros6b5tq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qK_0Ae8yFel4UoO0mZHgGNO6JbFL3hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096008109427-uq8f0fjno48ma1clpanv50mros6b5tq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096008109427:android:ae95c026ac6da3e7f04906",
+        "android_client_info": {
+          "package_name": "com.example.mymemoriz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096008109427-dp5406qv3f6dj5gcv2slij3q2knhlsvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymemoriz",
+            "certificate_hash": "a63743f0b70c572e84b37e93a03e48690f17dbcd"
+          }
+        },
+        {
+          "client_id": "1096008109427-uq8f0fjno48ma1clpanv50mros6b5tq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qK_0Ae8yFel4UoO0mZHgGNO6JbFL3hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096008109427-uq8f0fjno48ma1clpanv50mros6b5tq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
